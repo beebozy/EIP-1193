@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.wallet-connector {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  display: inline-block;
+  text-align: left;
+}
+
+.wallet-connector h3 {
+  margin: 10px 0;
+}
+
+.wallet-connector button {
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
